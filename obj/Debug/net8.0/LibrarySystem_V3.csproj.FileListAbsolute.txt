@@ -1,0 +1,17 @@
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\LibrarySystem_V3.exe
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\LibrarySystem_V3.deps.json
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\LibrarySystem_V3.runtimeconfig.json
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\LibrarySystem_V3.dll
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\LibrarySystem_V3.pdb
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.AssemblyInfoInputs.cache
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.AssemblyInfo.cs
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.csproj.CoreCompileInputs.cache
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.dll
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\refint\LibrarySystem_V3.dll
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.pdb
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.genruntimeconfig.cache
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\ref\LibrarySystem_V3.dll
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.csproj.AssemblyReference.cache
+C:\Users\ronny\Koder\C-Sharp Gokstad undervisning\Arbeidskrav\CoPilot\LibrarySystem_V3\obj\Debug\net8.0\LibrarySystem_V3.csproj.CopyComplete
